@@ -1,2 +1,3 @@
 # Keyboard
 In this repo I show the progress of me building a wood case for my mech keyboard...
+![](+.jpeg)
